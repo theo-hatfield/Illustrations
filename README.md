@@ -1,6 +1,6 @@
-# Illustrations
+# Illustration Portfolio
 
-Welcome to **Illustrations**! This portfolio serves as a professional collection of illustrations by me used in prior scientfic work. 
+Welcome to my **illustrations**! This portfolio serves as a professional collection of illustrations by me used in prior scientfic work. It showcases various projects including adapted figures, original descriptive figures, cartoons, and graph supplements. 
 
 ## Table of Contents
 
@@ -8,22 +8,11 @@ Welcome to **Illustrations**! This portfolio serves as a professional collection
 - [Directory](#directory-structure)
 - [Contact](#contact)
 
-## About
-
-The **Illustrations** repository is designed to showcase and organize various illustrations. It can be used for personal projects, websites, presentations, or as inspiration for your own creative work.
-
-
 ## Directory
 
-```
-Illustrations/
-├── [category-1]/
-│   └── image1.png
-├── [category-2]/
-│   └── image2.svg
-├── README.md
-└── ...
-```
+[Undergraduate Thesis Images](#thesisimages)
+[Commissions](#commissions)
+[Other Images](#otherimg)
 
 ## Contact
 
