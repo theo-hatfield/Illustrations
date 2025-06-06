@@ -10,9 +10,9 @@ Welcome to my **illustrations**! This portfolio serves as a professional collect
 
 ## Directory
 
-[Undergraduate Thesis Images](#thesisimages)
-[Commissions](#commissions)
-[Other Images](#otherimg)
+- [Undergraduate Thesis Images](#thesisimages)
+- [Commissions](#commissions)
+- [Other Images](#otherimg)
 
 ## Contact
 
